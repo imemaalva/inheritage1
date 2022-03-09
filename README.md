@@ -1,0 +1,2 @@
+![Imagen diagrama](diagrama.png)
+
